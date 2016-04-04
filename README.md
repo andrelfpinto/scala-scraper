@@ -4,6 +4,8 @@ A library providing a DSL for loading and extracting content from HTML pages.
 
 Take a look at [Examples.scala](https://github.com/ruippeixotog/scala-scraper/blob/master/src/test/scala/net/ruippeixotog/scalascraper/Examples.scala) and at the [unit specs](https://github.com/ruippeixotog/scala-scraper/tree/master/src/test/scala/net/ruippeixotog/scalascraper) for usage examples or keep reading for more thorough documentation.
 
+[![Build Status](https://travis-ci.org/ruippeixotog/scala-scraper.svg?branch=master)](https://travis-ci.org/ruippeixotog/scala-scraper)
+
 ## Quick Start
 
 To use Scala Scraper in an existing SBT project with Scala 2.11.x, add the following dependency to your `build.sbt`:
